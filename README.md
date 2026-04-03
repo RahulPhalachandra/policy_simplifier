@@ -132,6 +132,3 @@ The app will be available at `http://localhost:5173`
 - **Copy & Download**: Export simplified text as TXT
 - **View Original**: Compare simplified vs original text
 
-## 📝 License
-
-MIT
